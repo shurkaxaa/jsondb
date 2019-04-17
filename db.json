@@ -1,0 +1,65 @@
+[
+  {
+    "Hypervisor Hostname": "lunohod1", 
+    "Host IP": "127.0.0.1", 
+    "State": "up", 
+    "ID": 1, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "gforce", 
+    "Host IP": "127.0.0.1", 
+    "State": "up", 
+    "ID": 3, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod2", 
+    "Host IP": "127.0.0.1", 
+    "State": "down", 
+    "ID": 4, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod3", 
+    "Host IP": "127.0.0.1", 
+    "State": "down", 
+    "ID": 5, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod-nsk", 
+    "Host IP": "10.9.0.2", 
+    "State": "up", 
+    "ID": 6, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod6", 
+    "Host IP": "127.0.0.1", 
+    "State": "down", 
+    "ID": 7, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod4", 
+    "Host IP": "127.0.0.1", 
+    "State": "up", 
+    "ID": 8, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod5", 
+    "Host IP": "127.0.0.1", 
+    "State": "down", 
+    "ID": 11, 
+    "Hypervisor Type": "lxd"
+  }, 
+  {
+    "Hypervisor Hostname": "lunohod7", 
+    "Host IP": "127.0.0.1", 
+    "State": "down", 
+    "ID": 12, 
+    "Hypervisor Type": "lxd"
+  }
+]
